@@ -283,8 +283,6 @@
             font-size: 14px;
             box-shadow: 0 -2px 5px var(--shadow-color);
             margin-top: 40px;
-        }
-    </style>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             let clickCount = 0;
